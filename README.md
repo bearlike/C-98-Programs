@@ -18,11 +18,16 @@ See: [Using MagicISO to create floppy disk image](http://www.magiciso.com/tutori
 * Install Borland C++ 3.1 in MS-DOS.
 See: [Downloading Borland C++ 3.1](https://winworldpc.com/download/49068656-18DA-11E4-99E5-7054D21A8599)
 
-## Program Descriptions
-
-* **The_Truck_Game.CPP** -
-* **Tic_Tac_Toe.CPP** -
-* **Supermarket_Database_Management.CPP** -
+## Project Descriptions
+###The_Truck_Rally
+The Truck Rally is an endless running game developed in C++98 using the Graphic Library.
+####Features
+1. Simulates 2d effects from scratch.
+2. The difficulty of the game would increase for completion of every 1000 points.
+3. Has an intro sound :)  
+4. Saves the Player name and High Score in a file.
+###Tic Tac Toe
+###Supermarket Database Management
 
 
 
@@ -33,7 +38,7 @@ The Old C++98 is more of a minefield, and it's nice to learn how to navigate suc
 ## Authors
 
 * **Krishna Alagiri** - *Supermarket_Database_Management.CPP* - [KrishnaAlagiri](https://github.com/KrishnaAlagiri)
-* **Krishna Alagiri** - *The_Truck_Game.CPP* - [KrishnaAlagiri](https://github.com/KrishnaAlagiri)
+* **Krishna Alagiri** - *The_Truck_Rally.CPP* - [KrishnaAlagiri](https://github.com/KrishnaAlagiri)
 * **Krishna Alagiri** - *Tic_Tac_Toe.CPP* - [KrishnaAlagiri](https://github.com/KrishnaAlagiri)
 
 ## License
