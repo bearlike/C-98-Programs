@@ -17,10 +17,10 @@ These C++98 programs will help you understand various aspects of programming and
 
 The Old C++98 is more of a minefield, and it's nice to learn how to navigate such a beast. It will also make you understand why things are done how they are, and what the implications of different constructs are.
 
-#### Prerequisites
+### Prerequisites
 You may have MS-DOS installed on bare metal or in VirtualBox. It doesn't work under Windows systems.
 
-#### Setup Environment
+### Setup Environment
 
 * Install MS-DOS under VirtualBox.
 See: [How to Install DOS 6.22 Under VirtualBox](http://www.instructables.com/id/How-To-Install-DOS-622-Under-VirtualBox/?ALLSTEPS)
