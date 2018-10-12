@@ -29,8 +29,9 @@ The Truck Rally is an endless running game developed in C++98 using the Graphic 
 4. Saves the Player name and High Score in a file.
 
 ### 2. Tic Tac Toe
+The classic game of X's and O's developed in C++98.
 ### 3. Supermarket Database Management
-
+A simple C++98 project that manages a Supermarket's Product Database and Billing.
 
 
 ## Why should your first programming be C++98 ?
