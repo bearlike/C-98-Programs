@@ -23,10 +23,10 @@ See: [Downloading Borland C++ 3.1](https://winworldpc.com/download/49068656-18DA
 ### 1. The_Truck_Rally
 The Truck Rally is an endless running game developed in C++98 using the Graphic Library.
 #### Features
-1. Simulates 2d effects from scratch.
-2. The difficulty of the game would increase for completion of every 1000 points.
-3. Has an intro sound :)  
-4. Saves the Player name and High Score in a file.
+* Simulates 2d effects from scratch.
+* The difficulty of the game would increase for completion of every 1000 points.
+* Has an intro sound :)  
+* Saves the Player name and High Score in a file.
 
 ### 2. Tic Tac Toe
 The classic game of X's and O's developed in C++98.
