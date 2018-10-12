@@ -7,7 +7,7 @@ Contains miscellaneous fun projects to aid learning C++98 better.
 These C++98 programs will help you understand various aspects of programming and nuances of programming.
 
 ### Prerequisites
-You may have MS-DOS installed on bare metal or in VirtualBox. It doesn't work under Windows systems.
+You may have MS-DOS installed on bare metal or in VirtualBox. It may not work under Windows systems.
 
 ### Setup Environment
 
@@ -20,9 +20,9 @@ See: [Downloading Borland C++ 3.1](https://winworldpc.com/download/49068656-18DA
 
 ## Program Descriptions
 
-* **Supermarket_Database_Management.CPP** -
 * **The_Truck_Game.CPP** -
 * **Tic_Tac_Toe.CPP** -
+* **Supermarket_Database_Management.CPP** -
 
 
 
